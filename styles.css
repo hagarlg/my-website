@@ -2554,7 +2554,7 @@ html {
   
   .intro-header.cc-subpage {
     
-      height: 480px;
+    height: 480px;
     margin-right: 44px;
     margin-left: 44px;
     padding-top: 30px;
@@ -2569,7 +2569,7 @@ html {
     background-clip: border-box;
     -webkit-text-fill-color: inherit;
   }
-  }
+ 
   
   .intro-content {
     text-align: center;
