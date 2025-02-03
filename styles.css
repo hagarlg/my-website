@@ -2572,9 +2572,9 @@ html {
     display: flex;
   }
   
-  .intro-header.cc-subpage {
+  [data-wf-site] .intro-header.cc-subpage {
     
-    height: 480px;
+    height: 480px !important;
     margin-right: 44px;
     margin-left: 44px;
     padding-top: 30px;
